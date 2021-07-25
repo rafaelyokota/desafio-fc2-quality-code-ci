@@ -1,0 +1,24 @@
+{
+    "name": "fc-quality",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rafaelyokota/desafio-fc2-quality-code-ci.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rafaelyokota/desafio-fc2-quality-code-ci/issues"
+    },
+    "homepage": "https://github.com/rafaelyokota/desafio-fc2-quality-code-ci#readme",
+    "dependencies": {
+        "@types/jest": "^26.0.24",
+        "jest": "^27.0.6",
+        "sonar-scanner": "^3.1.0"
+    }
+}
